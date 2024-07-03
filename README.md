@@ -2,7 +2,8 @@
 
 ### Oi! Sou Allysson Ryan  🖐️
 
-#### Sou um desenvolvedor front-end brasileiro com paixão por criar interfaces de usuário modernas e responsivas.
+#### Sou desenvolvedor front-end, dedicado e com foco em criação de interfaces de usuário dinâmicas e responsivas. Minha missão é criar experiências inovadoras e eficientes, combinando habilidades técnicas com um entendimento profundo das necessidades dos usuários. 
+
 <br>
 
 <div align="center">
