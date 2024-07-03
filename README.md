@@ -36,7 +36,7 @@
 <a href="mailto:cmp.1a.allyssonr002@gmail.com">
 <img align="center"  height="60" width="60" src="https://github-production-user-asset-6210df.s3.amazonaws.com/44561610/312637983-2856fdde-3200-4398-8290-a0e45d3a35a0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240703%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240703T195600Z&X-Amz-Expires=300&X-Amz-Signature=4ebc48af4f4c8a0c5e3f2a0d804782cdc2397a6174d9d96806a67cd1a398bfc5&X-Amz-SignedHeaders=host&actor_id=174641894&key_id=0&repo_id=541262417">
 </a>
-<a  href="www.linkedin.com/in/allysson-ryan-49b973186" target=_blank>
+<a  href="www.linkedin.com/in/allysson-ryan" target=_blank>
 <img align="center"  height="62" width="62" src="https://github-production-user-asset-6210df.s3.amazonaws.com/44561610/312638011-bc26a6f8-f0d3-4f15-82e1-55680c48f269.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240703%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240703T195446Z&X-Amz-Expires=300&X-Amz-Signature=48e1cf333e2d06b841018f02115bb5737acccb56af9ffa4401ff14f8ed9d1cca&X-Amz-SignedHeaders=host&actor_id=174641894&key_id=0&repo_id=541262417">
 </a>
 <a href="https://instagram.com/ryan.nasciment0" target="_blank">
