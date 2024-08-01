@@ -32,14 +32,14 @@
 
 ### 🎯 Você pode me encontrar 🎯
 <div> 
-  <a>
+  <a href="https://www.linkedin.com/in/allysson-ryan/">
     <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a>
-    <img align="center" alt="nstagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/ryan.nasciment0/">
+    <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a>
-    <img align="center" alt="nstagram" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  <a href="#">
+    <img align="center" alt="Portifólio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </div>
