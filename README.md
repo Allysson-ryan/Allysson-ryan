@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4d4845"/>
+<img width=100% src="![Allysson Ryan3](https://github.com/user-attachments/assets/f45ffda3-1a60-4641-83fa-eb6b9a04e284)"/>
+
 
 ### Oi! Sou Allysson Ryan  🖐️
 
