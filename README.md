@@ -1,7 +1,4 @@
-<img width=100% src="https://github.com/user-attachments/assets/f45ffda3-1a60-4641-83fa-eb6b9a04e284"/>
-
-
-### Oi! Sou Allysson Ryan  🖐️
+<img width=100% src="https://github.com/user-attachments/assets/66d63abe-9c7a-497e-9241-06f73bcc3c9a"/>
 
 #### Sou desenvolvedor front-end, dedicado e com foco em criação de interfaces de usuário dinâmicas e responsivas. Minha missão é criar experiências inovadoras e eficientes, combinando habilidades técnicas com um entendimento profundo das necessidades dos usuários. 
 
