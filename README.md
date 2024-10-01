@@ -37,7 +37,7 @@
     <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="#">
-    <img align="center" alt="Portifólio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  <a href="https://portifolio-ryan.netlify.app/" style="text-decoration: none;">
+    <div style="background-color: #0000; width: 100px; height: 27.5px; color: #ffff; display: flex; align-items: center; justify-content: center;"> Meu Portfólio </div>
   </a>
 </div>
