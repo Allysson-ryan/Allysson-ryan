@@ -3,12 +3,7 @@
 #### Sou desenvolvedor front-end, dedicado e com foco em criação de interfaces de usuário dinâmicas e responsivas. Minha missão é criar experiências inovadoras e eficientes, combinando habilidades técnicas com um entendimento profundo das necessidades dos usuários. 
 
 <br>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Allysson-ryan&theme=shadow-brown&hide_border=falso&border_radius=5.7&card_width=455&card_height=183)](https://git.io/streak-stats)
-
-</div><br/>
+<br/>
 
 
 
