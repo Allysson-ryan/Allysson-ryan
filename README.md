@@ -25,11 +25,6 @@
   
 </div><br/><br/>
 
-### 📖 Alguns que estou estudando 📖
-<div style="display: inline_block">
-  <img align="center" alt="reactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div><br/><br/>
-
 ### 🎯 Você pode me encontrar 🎯
 <div> 
   <a href="https://www.linkedin.com/in/allysson-ryan/">
