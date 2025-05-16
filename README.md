@@ -34,6 +34,6 @@
     <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="https://portifolio-ryan.netlify.app/">
+  <a href="https://potfolio-ryan.netlify.app/">
     <img align="center" alt="Meu Portifólio" src="https://img.shields.io/badge/Portifólio-3a464b?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
